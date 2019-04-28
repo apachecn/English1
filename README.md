@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.apachecn.org">
-        <img width="200" src="static/img/SocialReport//logo/AI-ATQ.png">
+        <img width="200" src="static/img/logo/AI-ATQ.png">
     </a>
 </p>
 
@@ -19,4 +19,3 @@
 > 报道 Social Report
 
 ![程序员转化-鸡蛋卷饼](static/img/SocialReport/程序员转化-鸡蛋卷饼.png)
-
