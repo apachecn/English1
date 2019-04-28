@@ -1,2 +1,7 @@
-# Ml-ATQ
-Ml-ATQ(advises to quit 劝退书) 
+# Ml-ATQ(advises to quit 劝退书) 
+
+> No sex, no love, only 996 (not 985 or 211)
+
+格式：
+
+* 时间 + 昵称 + 《相关内容》
