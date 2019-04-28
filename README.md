@@ -6,6 +6,11 @@
 
 * 时间 + 昵称 + 主题
 
-> Catalog
+> 目录 Catalog
 
 * 20190428-片刻-Ml劝退书.md
+
+> 报道 Social Report
+
+![程序员转化-鸡蛋卷饼](static/img/SocialReport/程序员转化-鸡蛋卷饼.png)
+
