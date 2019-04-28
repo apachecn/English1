@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.apachecn.org">
-        <img width="200" src="static/img/logo/AI-ATQ.png">
+        <img width="200" src="http://data.apachecn.org/img/logo/GreenHat.jpg">
     </a>
 </p>
 
