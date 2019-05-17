@@ -18,7 +18,7 @@
 
 > 读万卷书不如行万里路
 
-* 所以学好英文，出国见见市面？
+* 所以学好英文，出国见见世面？
 * [国家中英文对照表](/docs/English/CounttryList.md): https://github.com/apachecn/Ml-ATQ/tree/master/docs/English/CounttryList.md
 
 > 报道 Social Report
