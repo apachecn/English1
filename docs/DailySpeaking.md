@@ -1,6 +1,4 @@
-# 地道的表达方式
-
-> 信息涞源：https://www.youtube.com/watch?v=rRdRcx40Kpw
+# 日常口语
 
 * 陈冠希 is A Native Speaker 母语者
 * His native language is English.
@@ -43,15 +41,12 @@
 * # 如果你想要减肥，你应该尽可能多的避开不健康的食物
 * If you want to lost weight, you should avoid unhealthy food as much as possible.
 
-
-
 > feel like 感觉（是/像）
 
 * I feel like an outsider. 我感觉像一个外人
 * I feel like this is a bad/terrible idea. 我感觉这是一个坏/糟糕的主意
 * I feel like I'm getting sick.
 * I feel like you don't trust me.
-
 
 > chill/hang out - spend time(正式场合) 在家呆着什么都不干
 
@@ -60,7 +55,15 @@
 * I'm just chilling at home right now.
 * I'm just hanging at home.
 
+> It could be through 通过某种渠道
 
+* # 也许是通过搜索引擎
+* It could be through the search engine.
+
+> It's not my thing 这不是我的东西/菜
+
+* 指你对某事物、不感兴趣
+* 如果想指人的话，可以说： he's/she's not my type.
 
 ---
 
@@ -68,3 +71,9 @@
 * black sheep 败家子，和家人关系处理不太好
 * Phrasal verbs 动词短语
 * It's super common. 这是特别常用的
+* Why you gotta bother me, man?  你为什么要到扰我呢？兄弟
+
+> 信息涞源：
+
+* https://www.youtube.com/watch?v=rRdRcx40Kpw
+* https://www.youtube.com/watch?v=7hFpPyU_74A
