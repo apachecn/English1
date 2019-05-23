@@ -24,5 +24,5 @@
 > 国家中英文对照表
 
 * 所以学好英文，出国见见世面？
-* [国家中英文对照表](/docs/English/CounttryList.md): https://github.com/apachecn/English/tree/master/docs/English/CounttryList.md
+* [国家中英文对照表](/docs/CounttryList.md): https://github.com/apachecn/English/tree/master/docs/English/CounttryList.md
 
