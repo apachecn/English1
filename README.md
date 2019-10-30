@@ -23,6 +23,13 @@
 
 ## 句型结构 Sentence Structure
 
+英文: 前少后多 (头重脚轻，外国人不习惯)
+
+That I love you is a lie. => It(形式主语) is a lie that I love you.
+
+
+
+
 > 简单句
 
 ### 1. 主语 + 谓语(vi.) :  主语做了。动作
@@ -50,6 +57,26 @@
 * Jerry made Tom angry.
 * Jerry made Tom a fool.
 * Tom saw Jerry eating in the kitchen.
+
+> 复杂句
+
+* 并列 and: 主谓 and 主谓
+* 转折 but: 主谓 and 主谓
+* 选择 or: 主谓 and 主谓
+* 递进 from .. to
+
+关注: 有道逻辑英语 
+回复: 关联词
+链接: <https://mp.weixin.qq.com/s/bp3_VRQsnx1wuwnbaWa_PA>
+
+
+> 祈使句
+
+* (you) kiss me! -- 面对面说话，可以省略主语
+
+> 愿望句
+
+* (I) fuck you! -- 面对面说话，可以省略主语
 
 ## 目录 Catalog
 
