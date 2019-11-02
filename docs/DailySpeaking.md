@@ -6,7 +6,7 @@
 > kind of 
 
 * lost soul  迷茫的灵魂
-* # 我现在很迷茫，我不知道该做是吗
+* # 我现在很迷茫，我不知道该做什么
 * I feel kind of lost/I'm a little bit lost. I dunno what to do. 
 * # 我们现在好像迷路了，我不知道向哪里走。
 * We're kind of lost right now, I dunno where we're going.  
