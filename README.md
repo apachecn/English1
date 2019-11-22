@@ -8,6 +8,10 @@
 
 > No time, No sex, No love, Only 996! (not 985 or 211)
 
+## 单词速记
+
+[单词速记](docs/单词速记.md): 根据字母的起源、通假字、思维导图来记忆（元音、清辅音、辅音）
+
 ## 语法 Grammar
 
 | 成分 | 词性 | 定义 | 
@@ -24,6 +28,8 @@
 | [反问句](docs/反问句.md)        | | |
 
 [介词](docs/介词.md): preposition 简写prep. 介词通常位于名词或代词之前。
+
+使役动词，就是迫使、着急去做，所以才把to省略
 
 ## 句型结构 Sentence Structure
 
